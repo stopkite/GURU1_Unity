@@ -16,4 +16,3 @@ Unity
 ![슬라이드12](https://user-images.githubusercontent.com/62979643/104808105-58b29700-5827-11eb-82ab-ee3bc1781de1.JPG)
 ![슬라이드13](https://user-images.githubusercontent.com/62979643/104808106-5a7c5a80-5827-11eb-9551-e3900fb3881b.JPG)
 ![슬라이드14](https://user-images.githubusercontent.com/62979643/104808108-5c461e00-5827-11eb-83eb-2610b0a24404.JPG)
-![슬라이드15](https://user-images.githubusercontent.com/62979643/104808109-5e0fe180-5827-11eb-9b97-f218fa2338e1.JPG)
